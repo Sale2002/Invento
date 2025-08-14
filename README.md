@@ -1,4 +1,3 @@
-# Invento
 # Inventory Tracking 
 ## I. Introduction
 ### 1.1. About Project
